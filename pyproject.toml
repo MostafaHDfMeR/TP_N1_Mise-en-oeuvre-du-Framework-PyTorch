@@ -1,0 +1,14 @@
+[project]
+name = "tp-n1-mise-en-oeuvre-du-framework-pytorch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.5",
+    "torch>=2.15.0",
+    "torcheval>=0.0.7",
+    "torchviz>=0.0.3",
+]
